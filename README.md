@@ -1,7 +1,7 @@
 # ML-topology
 Solving Chern numbers using convolutional neural nets
 
-The MATLAB code generates lattice samples, while the Python code defines, trains, and evaluates the neural networks. Data used for Fig. 1(b), (d), and (f) are available in the examples_4x4 subfolder.
+The MATLAB code generates lattice samples, while the Python code defines, trains, and evaluates the neural networks. Data used for Fig. 1(b), (d), and (f) are available as MATLAB data files data_1.mat, data_2.mat, and data_3.mat.
 
 To generate samples (4x4, 8x8, or 16x16), run generate_lattice_samples_disorder.m. Set the flags in the SETTINGS section and, if using different lattice parameters, set those in the LATTICE PARAMETERS section. The other MATLAB scripts are referenced and should be placed in the same directory.
 
