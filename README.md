@@ -1,5 +1,5 @@
 # ML-topology
-Solving Chern numbers using convolutional neural nets
+Solving Chern numbers using convolutional neural nets (used in the manuscript "RG-Inspired Neural Networks for Computing Topological Invariants," arxiv.org/abs/2202.07669)
 
 The MATLAB code generates lattice samples, while the Python code defines, trains, and evaluates the neural networks. Data used for Fig. 1(b), (d), and (f) are available as MATLAB data files data_1.mat, data_2.mat, and data_3.mat.
 
